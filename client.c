@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 #define PORT 12345
-#define SERVER_ADDR "13.0.0.1"
+#define SERVER_ADDR "10.0.2.17"
 
 int main() {
     int sock = 0;
